@@ -15,3 +15,10 @@ Dengan visual yang jelas dan dinamis, dashboard ini memberikan insight mengenai:
 📅 Tren pendapatan bulanan
 
 Proyek ini menunjukkan bagaimana data mentah dapat diubah menjadi visualisasi yang bermakna untuk mendukung pengambilan keputusan dan strategi operasional yang lebih baik, khususnya di industri makanan dan minuman.
+
+---
+
+👨‍💻 Dibuat oleh: **Bagus Akbar Harimanto**  
+Future Data Analyst | Data Enthusiast  
+
+🔗 [LinkedIn Saya](https://www.linkedin.com/in/bagus-akbar-harimanto/)
