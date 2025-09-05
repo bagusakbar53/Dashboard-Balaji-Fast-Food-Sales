@@ -5,10 +5,10 @@
 
 Proyek ini menyajikan sebuah Dashboard Analitik Penjualan Makanan Cepat Saji yang interaktif menggunakan Power BI. Tujuan dari dashboard ini adalah untuk membantu tim bisnis dan pemasaran dalam menganalisis performa produk berdasarkan jenis makanan, metode pembayaran, waktu transaksi, serta tren pendapatan bulanan.
 
-Dengan visual yang jelas dan dinamis, dashboard ini memberikan insight mengenai:
-
 ---
 
+
+Dengan visual yang jelas dan dinamis, dashboard ini memberikan insight mengenai:
 
 📦 Total pendapatan dan jumlah produk yang terjual
 
